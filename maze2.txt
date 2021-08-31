@@ -1,0 +1,9 @@
+20 7
+6 2
+xxxxxxxxxxxxxxxxxxxx
+xx         xxxxxxxxx
+xx xxxxxxx xxxxxxxxx
+xx xxxxxxx xxxxxxxxx
+xx xxxxxx      xxxxx
+xx xxxxxxxxxxxxxxxxx
+xx xxxxxxxxxxxxxxxxx
